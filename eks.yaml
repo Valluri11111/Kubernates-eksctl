@@ -3,8 +3,8 @@ kind: ClusterConfig
 
 metadata:
   name: expensee
-  region: us-east-1b
-
+  region: us-east-1
+  
 managedNodeGroups:
   - name: expense
     instanceType: t3.small
